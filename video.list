@@ -1,1 +1,9 @@
 
+# 内容：视频网站
+# 域名关键字匹配
+# DOMAIN-KEYWORD,youtube
+# DOMAIN-KEYWORD,facebook
+# DOMAIN-KEYWORD,instagram
+# 域名后缀匹配
+# DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,youtube.com
